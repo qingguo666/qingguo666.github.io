@@ -1,4 +1,4 @@
-title: "Qing Guo"
+title: "Welcom to Qing Guo's Homepage"
 author: "Qing Guo"
 description: "Virginia Tech"
 permalink: /:title/
@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "About me", icon: address-card}
+  - {file: "index.html", title: "Home"}
+  - {file: "README.md", title: "About me"}
   - {title: "My Lab", url: "https://www.sail.stat.vt.edu/"}
   
 
