@@ -15,11 +15,11 @@ novel mathematical and statistical insights. Specifically, my study covers the f
 * Meta-learning based on information-theoretic genralization theory
 * Reasoning for conversational search and recommendation
 
-<br clear="left"/>
 
 ## Education
+* Ph.D. in Statistics, Virginia Tech, 2019-Present
 * B.S. in Applied Statistics, Shanghai University of International Business and Economics, China, 2015-2019
-* Ph.D. in Statistics, Virginia Tech, 2019-Now
+
 
 ## Research
 [1] [Tight Mutual Information Estimation With Costrastive 
@@ -36,6 +36,10 @@ $\hspace{1.2em}$ **Guo Q.**, Deng X. and Ravishanker N. (2022).  In *Innovations
 
 ## Experience
 * Applied Scientist Intern, Amazon, Sunnyvale, CA, US, 2022.05-2022.08
+* Reseach Assistant, Virginia Tech, Blacksburg, VA, 2021.05-2022.05
+* Teaching Assistant, Virginia Tech, Blacksburg, VA, 2019.08-2021.05
+* Data Scientist Intern, PCCOOLER Co. Ltd., Shenzhen, Guangdong, China, 2017.07-2017.09
+* Statistician Intern, Yee Fung Automation Technology Co. Ltd., Shenzhen, Guangdong, China, 2016.07-2016.09
 
 ## Talks
 * New England Statistical Society (NESS) 
