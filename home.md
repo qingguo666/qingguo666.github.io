@@ -4,7 +4,6 @@ permalink: "/about/"
 layout: post
 categories: media
 ---
-![myphoto](https://github.com/qingguo666/qingguo666.github.io/raw/master/image/myphoto.png)
 <img src="https://github.com/qingguo666/qingguo666.github.io/raw/master/image/myphoto.png" align="right" width="300px"/>
 
 currently the fourth-year PhD student in the Department of Statistics at Virginia Tech (VT),
