@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Qing"
 ---
 
 {% if site.show_excerpts %}
