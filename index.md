@@ -47,5 +47,6 @@ Multivariate Data <br />
 ## Talks
 * New England Statistical Society (NESS) 
 
-
+## Misc
+Ouside work, I like ping-pong, sing, hiking, ice skating, and snowboarding.
 
