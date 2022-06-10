@@ -3,7 +3,7 @@ layout: page
 titile: "Blog"
 ---
 
-<img src="image/myphoto.png" align="right" width="300px"/>
+<img src="image/myphoto.png" align="left" width="400px"/>
 
 I am Qing Guo, currently the fourth-year PhD student in the Department of Statistics at Virginia Tech (VT),
 under the supervision of Professor <a href="https://xwdeng80.github.io" style="color:blue"><u>Xinwei Deng</u></a>.
@@ -17,7 +17,7 @@ novel mathematical and statistical insights. Specifically, my study covers the f
 * Meta-Learning based on Information Genralization Theory
 * Reasoning in Conversation Search and Recommendation
 
-<br clear="right"/>
+<br clear="left"/>
 
 ## Education
 * B.S. in Applied Statistics, Shanghai University of International Business and Economics, China, 2015-2019
