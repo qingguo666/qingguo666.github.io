@@ -6,8 +6,9 @@ layout: page
 
 <img src="https://github.com/qingguo666/qingguo666.github.io/blob/master/image/myphoto.png" align="right" width="300px"/>
 
-I am Qing Guo, currently the fourth-year PhD student at the Department of Statistics of Virginia Tech 
-under the supervision of <a href="https://xwdeng80.github.io" style="color:blue"><u>Xinwei Deng</u></a>.
+I am Qing Guo, currently the fourth-year PhD student in the Department of Statistics at Virginia Tech (VT),
+under the supervision of Professor <a href="https://xwdeng80.github.io" style="color:blue"><u>Xinwei Deng</u></a>.
+I am also a memeber of VT Statistics and Artificial Intelligence Laboratory <a href="https://www.sail.stat.vt.edu/" style="color:blue"><u>(VT-SAIL)</u></a>.
 <br />
 My research focuses on addressing some of the frontier fundamental challenges in machine learning using
 novel mathematical and statistical insights. Specifically, my study covers the following topics:
