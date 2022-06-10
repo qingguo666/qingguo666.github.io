@@ -38,11 +38,11 @@ Multivariate Data <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Ravishanker N. (2022).  In *Innovations in Multivariate Statistical Modeling, in press*
 
 ## Experience
-* Applied Scientist Intern, Amazon, Sunnyvale, CA, US, 2022.05-2022.08
-* Reseach Assistant, Virginia Tech, Blacksburg, VA, 2021.05-2022.05
-* Teaching Assistant, Virginia Tech, Blacksburg, VA, 2019.08-2021.05
-* Data Scientist Intern, PCCOOLER Co. Ltd., Shenzhen, Guangdong, China, 2017.07-2017.09
-* Statistician Intern, Yee Fung Automation Technology Co. Ltd., Shenzhen, Guangdong, China, 2016.07-2016.09
+* Applied Scientist Intern, Amazon, Sunnyvale, CA, USA. 2022.05-2022.08
+* Reseach Assistant, Virginia Tech, Blacksburg, VA, USA. 2021.05-2022.05
+* Teaching Assistant, Virginia Tech, Blacksburg, VA, USA. 2019.08-2021.05
+* Data Scientist Intern, PCCOOLER Co. Ltd., Shenzhen, Guangdong, China. 2017.07-2017.09
+* Statistician Intern, Yee Fung Automation Technology Co. Ltd., Shenzhen, Guangdong, China. 2016.07-2016.09
 
 ## Talks
 * New England Statistical Society (NESS) 
