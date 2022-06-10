@@ -1,7 +1,8 @@
 ---
 titile: "About me"
 permalink: "/about/"
-layout: page
+layout: post
+categories: media
 ---
 
 <img src="https://github.com/qingguo666/qingguo666.github.io/blob/master/image/myphoto.png" align="right" width="300px"/>
