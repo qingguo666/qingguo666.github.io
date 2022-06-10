@@ -24,7 +24,7 @@ novel mathematical and statistical insights. Specifically, my study covers the f
 * B.S. in Applied Statistics, Shanghai University of International Business and Economics, China, 2015-2019
 
 
-## Research
+## Publications
 [1] [Tight Mutual Information Estimation With Costrastive 
 Fenchel-Legendre Optimization](https://arxiv.org/abs/2107.01131)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Tao C., et al. *Preprint*
