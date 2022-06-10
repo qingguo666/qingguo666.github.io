@@ -48,5 +48,5 @@ Multivariate Data <br />
 * *"A tight mutual information estimator for Bayesian experimental design"*. New England Statistical Society (NESS), 2022.05 
 
 ## Misc
-Ouside work, I like ping-pong, sing, hiking, ice skating, and snowboarding.
+Ouside work, I like playing ping-pong, singing, hiking, ice skating, and snowboarding.
 
