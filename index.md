@@ -1,7 +1,4 @@
----
-layout: page
-titile: "Blog"
----
+
 
 <img src="image/myphoto.png" align="left" width="400px"/>
 
