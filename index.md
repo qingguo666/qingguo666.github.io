@@ -1,18 +1,19 @@
 
 
-<img src="image/myphoto.png" align="left" width="400px"/>
+<img src="image/myphoto.png" width="400px"/>
 
-I am Qing Guo, currently the fourth-year PhD student in the Department of Statistics at Virginia Tech (VT),
+I am Qing Guo, currently the fourth-year Ph.D. student in the Department of Statistics at Virginia Tech (VT),
 under the supervision of Professor <a href="https://xwdeng80.github.io" style="color:blue"><u>Xinwei Deng</u></a>.
 I am also a memeber of VT Statistics and Artificial Intelligence Laboratory <a href="https://www.sail.stat.vt.edu/" style="color:blue"><u>(VT-SAIL)</u></a>.
+<br />
 <br />
 My research focuses on addressing some of the frontier fundamental challenges in machine learning using
 novel mathematical and statistical insights. Specifically, my study covers the following topics:
 
-* Nonparametric Contrastive Mutual Information Estimation
-* Optimal Bayesian Experimental Design for both static and Sequential Models
-* Meta-Learning based on Information Genralization Theory
-* Reasoning in Conversation Search and Recommendation
+* Nonparametric mutual information estimation with contrastive learning techniques
+* Optimal Bayesian experimental design for both static and sequential models
+* Meta-learning based on information-theoretic genralization theory
+* Reasoning for conversational search and recommendation
 
 <br clear="left"/>
 
@@ -20,15 +21,24 @@ novel mathematical and statistical insights. Specifically, my study covers the f
 * B.S. in Applied Statistics, Shanghai University of International Business and Economics, China, 2015-2019
 * Ph.D. in Statistics, Virginia Tech, 2019-Now
 
-## Papers
-[1] Guo Q., Deng X. and Tao C., et al. (2021). Tight Mutual Information Estimation With Contrastive 
-Fenchel-Legendre Optimization, arXiv preprint arXiv:2107.01131 (2021).
+## Research
+[1] [Tight Mutual Information Estimation With Costrastive 
+Fenchel-Legendre Optimization](https://arxiv.org/abs/2107.01131)<br/>
+$\hspace{1.2em}$ **Guo Q.**, Deng X. and Tao C., et al. *Preprint*
 <br />
-[2] Chen J., Gan Z., Li X., Guo Q.., et al. (2021). Simpler, Faster, Stronger: 
-Breaking The log-K Curse On Contrastive Learners With FlatNCE. NeurIPS Self-Supervised Learning Workshop.
+[2] [Simpler, Faster, Stronger: 
+Breaking The log-K Curse On Contrastive Learners With FlatNCE](https://arxiv.org/abs/2107.01152) <br/>
+$\hspace{1.2em}$ Chen J., Gan Z., Li X., **Guo Q.**, et al. Self-Supervised Learning Workshop, NeurIPS 2021.
 <br />
-[3] Guo Q., Deng X. and Ravishanker N. (2022).  Association-based Optimal Subpopulation Selection for 
-Multivariate Data. In Innovations in Multivariate Statistical Modeling, in press. 
+[3] Association-based Optimal Subpopulation Selection for 
+Multivariate Data <br />
+$\hspace{1.2em}$ **Guo Q.**, Deng X. and Ravishanker N. (2022).  In *Innovations in Multivariate Statistical Modeling, in press*
 
 ## Experience
 * Applied Scientist Intern, Amazon, Sunnyvale, CA, US, 2022.05-2022.08
+
+## Talks
+* New England Statistical Society (NESS) 
+
+
+
