@@ -45,7 +45,7 @@ Multivariate Data <br />
 * Statistician Intern, Yee Fung Automation Technology Co. Ltd., Shenzhen, Guangdong, China. 2016.07-2016.09
 
 ## Talks
-* New England Statistical Society (NESS) 
+* *"A tight mutual information estimator for Bayesian experimental design"*. New England Statistical Society (NESS), 2022.05 
 
 ## Misc
 Ouside work, I like ping-pong, sing, hiking, ice skating, and snowboarding.
