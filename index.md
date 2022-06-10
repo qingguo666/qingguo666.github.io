@@ -1,4 +1,7 @@
-
+---
+layout: page
+categories: media
+---
 
 <img src="image/myphoto.png" width="400px"/>
 
@@ -24,15 +27,15 @@ novel mathematical and statistical insights. Specifically, my study covers the f
 ## Research
 [1] [Tight Mutual Information Estimation With Costrastive 
 Fenchel-Legendre Optimization](https://arxiv.org/abs/2107.01131)<br/>
-$\hspace{1.2em}$ **Guo Q.**, Deng X. and Tao C., et al. *Preprint*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Tao C., et al. *Preprint*
 <br />
 [2] [Simpler, Faster, Stronger: 
 Breaking The log-K Curse On Contrastive Learners With FlatNCE](https://arxiv.org/abs/2107.01152) <br/>
-$\hspace{1.2em}$ Chen J., Gan Z., Li X., **Guo Q.**, et al. Self-Supervised Learning Workshop, NeurIPS 2021.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chen J., Gan Z., Li X., **Guo Q.**, et al. Self-Supervised Learning Workshop, NeurIPS 2021.
 <br />
 [3] Association-based Optimal Subpopulation Selection for 
 Multivariate Data <br />
-$\hspace{1.2em}$ **Guo Q.**, Deng X. and Ravishanker N. (2022).  In *Innovations in Multivariate Statistical Modeling, in press*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Ravishanker N. (2022).  In *Innovations in Multivariate Statistical Modeling, in press*
 
 ## Experience
 * Applied Scientist Intern, Amazon, Sunnyvale, CA, US, 2022.05-2022.08
