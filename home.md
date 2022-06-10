@@ -4,8 +4,8 @@ permalink: "/about/"
 layout: post
 categories: media
 ---
-![myphoto](https://github.com/qingguo666/qingguo666.github.io/raw/master/image/myphoto.png)
-<img src="https://github.com/qingguo666/qingguo666.github.io/raw/master/image/myphoto.png" align="right" width="300px"/>
+![myphoto](image/myphoto.png)
+<img src="image/myphoto.png" align="right" width="300px"/>
 
 I am Qing Guo, currently the fourth-year PhD student in the Department of Statistics at Virginia Tech (VT),
 under the supervision of Professor <a href="https://xwdeng80.github.io" style="color:blue"><u>Xinwei Deng</u></a>.
