@@ -3,7 +3,7 @@ layout: page
 categories: media
 ---
 
-<img src="image/myphoto.png" width="400px"/>
+<img src="image/myphoto.png" width="300px"/>
 
 I am Qing Guo, currently the fourth-year Ph.D. student in the Department of Statistics at Virginia Tech (VT),
 under the supervision of Professor <a href="https://xwdeng80.github.io" style="color:blue"><u>Xinwei Deng</u></a>.
