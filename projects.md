@@ -7,7 +7,7 @@ categories: media
 * **Mutual Information Estimation With Contrastive Fenchel-Legendre Optimization**     
   * Analyzing the limitations of the mutual information (MI) variational bound InfoNCE, with application to deep representation learning 
   * Proposing a novel unified framework for contrastive MI estimation, derived simple, powerful algorithm named Fenchel-Legendre Optimization (FLO)
-<p align="center"><img src="image/flo1.png" width="300px"/></p> 
+<center><p align="center"><img src="image/flo.png" width="300px"/></p></center> 
 <p align="center"><img src="image/toy.png" width="800px"/></p> 
     
 * **Meta-Learning with Information Theoretical Objectives**                                            
