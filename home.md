@@ -25,8 +25,8 @@ novel mathematical and statistical insights. Specifically, my study covers the f
 * Ph.D. in Statistics, Virginia Tech, 2019-Now
 
 ## Papers
-[1] Guo Q., Deng X. and Tao C., et al. (2021). Tight Mutual Information Estimation With Contrastive 
-Fenchel-Legendre Optimization, arXiv preprint arXiv:2107.01131 (2021).
+[1] Guo Q., Deng X. and Tao C., et al. Tight Mutual Information Estimation With Contrastive 
+Fenchel-Legendre Optimization, NeurIPS 2022.
 <br />
 [2] Chen J., Gan Z., Li X., Guo Q.., et al. (2021). Simpler, Faster, Stronger: 
 Breaking The log-K Curse On Contrastive Learners With FlatNCE. NeurIPS Self-Supervised Learning Workshop.
