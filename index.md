@@ -27,7 +27,7 @@ novel mathematical and statistical insights. Specifically, my study covers the f
 ## Preprints and Publications
 [1] [Tight Mutual Information Estimation With Costrastive 
 Fenchel-Legendre Optimization](https://arxiv.org/abs/2107.01131)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Tao C., et al. *Preprint*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Tao C., et al. NeurIPS 2022 Accepted.
 <br />
 [2] [Simpler, Faster, Stronger: 
 Breaking The log-K Curse On Contrastive Learners With FlatNCE](https://arxiv.org/abs/2107.01152) <br/>
