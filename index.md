@@ -5,7 +5,7 @@ categories: media
 
 <img src="image/myphoto.png" width="300px"/>
 
-I am Qing Guo, currently the fourth-year Ph.D. student in the Department of Statistics at Virginia Tech (VT),
+I am Qing Guo, currently the fifth-year Ph.D. student in the Department of Statistics at Virginia Tech (VT),
 under the supervision of Professor <a href="https://xwdeng80.github.io" style="color:blue"><u>Xinwei Deng</u></a>.
 I am also a memeber of VT Statistics and Artificial Intelligence Laboratory <a href="https://www.sail.stat.vt.edu/" style="color:blue"><u>(VT-SAIL)</u></a>.
 <br />
@@ -27,17 +27,19 @@ novel mathematical and statistical insights. Specifically, my study covers the f
 ## Preprints and Publications
 [1] [Tight Mutual Information Estimation With Costrastive 
 Fenchel-Legendre Optimization](https://arxiv.org/abs/2107.01131)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Tao C., et al. NeurIPS 2022 Accepted.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Tao C., et al. *NeurIPS 2022*.
 <br />
 [2] [Simpler, Faster, Stronger: 
 Breaking The log-K Curse On Contrastive Learners With FlatNCE](https://arxiv.org/abs/2107.01152) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chen J., Gan Z., Li X., **Guo Q.**, et al. Self-Supervised Learning Workshop, NeurIPS 2021.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chen J., Gan Z., Li X., **Guo Q.**, et al. *Self-Supervised Learning Workshop, NeurIPS 2021*.
 <br />
-[3] Association-based Optimal Subpopulation Selection for 
-Multivariate Data <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Ravishanker N. (2022).  In *Innovations in Multivariate Statistical Modeling, in press*
+[3] [Association-based Optimal Subpopulation Selection for 
+Multivariate Data](https://link.springer.com/chapter/10.1007/978-3-031-13971-0_1) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Ravishanker N.  In *Innovations in Multivariate Statistical Modeling, 2022*
 
 ## Experience
+* Applied Scientist Intern, Amazon, Sunnyvale, CA, USA. 2023.05-2023.08
+* Amazon Fellowship, Virginia Tech, Blacksburg, VA, USA. 2022.08-2023.05
 * Applied Scientist Intern, Amazon, Sunnyvale, CA, USA. 2022.05-2022.08
 * Reseach Assistant, Virginia Tech, Blacksburg, VA, USA. 2021.05-2022.05
 * Teaching Assistant, Virginia Tech, Blacksburg, VA, USA. 2019.08-2021.05
