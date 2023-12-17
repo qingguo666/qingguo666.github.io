@@ -36,6 +36,9 @@ Breaking The log-K Curse On Contrastive Learners With FlatNCE](https://arxiv.org
 [3] [Association-based Optimal Subpopulation Selection for 
 Multivariate Data](https://link.springer.com/chapter/10.1007/978-3-031-13971-0_1) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Deng X. and Ravishanker N.  In *Innovations in Multivariate Statistical Modeling, 2022*
+<br />
+[4] [How do multimodal LLMs really fare in classical vision few-shot challenges? A deep dive](https://www.amazon.science/publications/how-do-multimodal-llms-really-fare-in-classical-vision-few-shot-challenges-a-deep-dive) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Prashan W., Skyler Z., Jacob F., Xinwei Deng., Chenyang T. *Robustness of Zero/Few-shot Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in Foundation Models Workshop, NeurIPS 2023*
 
 ## Experience
 * Applied Scientist Intern, Amazon, Sunnyvale, CA, USA. 2023.05-2023.08
