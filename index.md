@@ -39,7 +39,7 @@ Multivariate Data](https://link.springer.com/chapter/10.1007/978-3-031-13971-0_1
 <br />
 [4] [How do multimodal LLMs really fare in classical 
 vision few-shot challenges? A deep dive](https://www.amazon.science/publications/how-do-multimodal-llms-really-fare-in-classical-vision-few-shot-challenges-a-deep-dive) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guo Q.**, Wanigasekara P., Zheng J., Fang Z., Deng X., and Tao C. *Robustness of Zero/Few-shot Learning in Foundation Models Workshop, NeurIPS 2023*
+&nbsp;&nbsp;&nbsp;**Guo Q.**, Wanigasekara P., Zheng J., Fang Z., Deng X., and Tao C. *Robustness of Zero/Few-shot Learning in Foundation Models Workshop, NeurIPS 2023*
 
 ## Experience
 * Applied Scientist Intern, Amazon, Sunnyvale, CA, USA. 2023.05-2023.08
